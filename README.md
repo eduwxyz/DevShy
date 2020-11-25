@@ -5,7 +5,7 @@
 Olá, eu sou o Eduardo!
 
 - 🕮 Estudante de Sistema de informação pela Universidade Estadual do Sudoeste da Bahia - UESB
-- 🦏 Estou estudando para virar um developer fullstack
+- 🦏 Estou estudando para virar um Fullstack developer
 - 🤝 Gosto muito de desafios, e não tenho medo de encará-los
 
 <p align="center">
