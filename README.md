@@ -1,5 +1,5 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-shy-141835192/)
-[<img src="https://img.shields.io/github/followers/milenacarecho?label=follow&style=social" height="22" title="Follow me" />](https://github.com/DevShy) 
+[<img src="https://img.shields.io/github/followers/devshy?label=follow&style=social" height="22" title="Follow me" />](https://github.com/DevShy) 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](eduardoshy1@gmail.com)
 
 Olá, eu sou o Eduardo!
