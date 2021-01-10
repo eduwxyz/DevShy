@@ -2,11 +2,15 @@
 [<img src="https://img.shields.io/github/followers/devshy?label=follow&style=social" height="22" title="Follow me" />](https://github.com/DevShy) 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](eduardoshy1@gmail.com)
 
+<p align="center">
+  <img src="https://imgur.com/a/hWGpSo5" width="350" title="hover text">
+</p>
+
 Olá, eu sou o Eduardo!
 
 - 🕮 Estudante de Sistema de informação pela Universidade Estadual do Sudoeste da Bahia - UESB
 - 🦏 Estou estudando para virar um Fullstack developer
-- 🤝 Gosto muito de desafios, e não tenho medo de encará-los
+- 🤝 Amante de Xadrez
 
 <p align="center">
 
