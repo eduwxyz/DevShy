@@ -2,7 +2,7 @@
 [<img src="https://img.shields.io/github/followers/devshy?label=follow&style=social" height="22" title="Follow me" />](https://github.com/DevShy) 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](eduardoshy1@gmail.com)
 
-![alt text](https://imgur.com/a/hWGpSo5)
+![image](https://github.com/DevShy/DevShy/blob/main/undraw_programming_2svr.png)
 
 Olá, eu sou o Eduardo!
 
